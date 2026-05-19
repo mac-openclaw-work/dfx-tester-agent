@@ -1,0 +1,13 @@
+{
+  "github": {
+    "url": "https://github.com/mac-openclaw-work/dfx-tester",
+    "token": "\${GITHUB_TOKEN}"
+  },
+  "gitee": {
+    "url": "https://gitee.com/mac-openclaw-work/dfx-tester",
+    "token": "\${GITEE_TOKEN}"
+  },
+  "cnb": {
+    "url": "https://cnb.cool/mac-openclaw/work/dfx-tester"
+  }
+}
